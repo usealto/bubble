@@ -17,9 +17,9 @@ Please make a search to see if an issue related to this feature request already 
 
 ## Current behavior
 
-A concise description of what you're experiencing and what you expect:
+A concise description of what you're experiencing, when logged in as a lead/memeber..., and what you expect:
 
-When I do <X>, <Y> happens and I see the error message attached below:  
+As a <U>, when I do <X>, <Y> happens and I see the error message attached below:  
 ```...```  
 What I expect is <Z>  
 
