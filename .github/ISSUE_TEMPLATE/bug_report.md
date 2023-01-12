@@ -32,6 +32,11 @@ Screenshots are welcomed ! They are very easy to understand and provode context.
 
 Add steps to reproduce this behaviour, include console or network logs and screenshots:
 
+BE CAREFUL TO NOT SHOW ANY SENSITIVE API KEY
+
+Please record a short video loom to help us reproduce the bug https://www.loom.com/looms/videos
+[LOOM VIDEO/]
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
