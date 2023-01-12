@@ -16,7 +16,9 @@ Please make a search to see if an issue related to this feature request already 
 
 ## Summary
 
-One paragraph description of the feature
+One paragraph description of the feature. Please begin with :
+
+As XXXX I want to XXXX because XXXXX
 
 ## Why should this be worked on?
 
@@ -24,4 +26,4 @@ A concise description of the problems or use cases for this feature request
 
 ## Additional context
 
-Add any other context about the feature request here.
+Add any other context about the feature request here. Screenshots are welcomed
