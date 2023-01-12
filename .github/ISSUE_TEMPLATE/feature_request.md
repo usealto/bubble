@@ -27,3 +27,14 @@ A concise description of the problems or use cases for this feature request
 ## Additional context
 
 Add any other context about the feature request here. Screenshots are welcomed
+
+  
+## Test & Review
+
+Before deploy : always have a pair to test and review your feature
+
+Who Review : @username
+
+Loom Video Review : https://
+
+Reviewer : Make sure to test on live aswell !!
